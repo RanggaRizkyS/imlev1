@@ -7,8 +7,5 @@
     ],
     "routes": [
       { "src": "/(.*)", "dest": "/server.js" }
-    ],
-    "build": {
-      "command": "npm run build"
-    }
+    ]
 }
